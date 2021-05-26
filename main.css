@@ -1,0 +1,60 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+body{
+  font-family: sans-serif;
+  background-color:#942d9954;
+  display: flex;
+  align-content: center;
+  justify-content:center;
+  padding: 10%;
+}
+.container{
+  box-shadow: 0 10px 15px 15px rgba(50,50,50,0.4);
+}
+.body{
+  padding: 25px;
+  align-items: center;
+  justify-content:center;
+  background-color: #FFF;
+  line-height: 30px;
+  font-size: 15px;
+}
+#heading{
+  border-bottom: 3px solid red;
+  text-align: center;
+  background-color:green;
+  height: 20px;
+  padding: 10px;
+  font-size: 1.3em;
+  color: #FFF;
+}
+
+#btn{
+  padding: 5px;
+  background-color: orange;
+  border: 2px solid blue;
+  border-radius: 8%;
+  margin: 10px;
+  margin-left: 150px;
+
+}
+
+hr{
+  margin-top: 10px;
+  height:2px;
+}
+
+.calc{
+  margin-top: 4px;
+  line-height: 15px;
+}
+#calculation{
+  font-size: 10px;
+}
+#author{
+  color: red;
+  font-size: 10px;
+  float: right;
+}
