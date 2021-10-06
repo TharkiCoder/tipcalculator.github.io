@@ -8,13 +8,13 @@ body{
   display: flex;
   align-content: center;
   justify-content:center;
-  padding: 10%;
+  padding: 15%;
 }
 .container{
   box-shadow: 0 10px 15px 15px rgba(50,50,50,0.4);
 }
 .body{
-  padding: 25px;
+  padding: 30px;
   align-items: center;
   justify-content:center;
   background-color: #FFF;
@@ -33,9 +33,9 @@ body{
 
 #btn{
   padding: 5px;
-  background-color: orange;
+  background-color: grey;
   border: 2px solid blue;
-  border-radius: 8%;
+  border-radius: 10%;
   margin: 10px;
   margin-left: 150px;
 
